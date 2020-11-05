@@ -1,0 +1,25 @@
+Brazópolis;MG 
+Amambai;MS
+Balneário Piçarras;SC
+Mogi Mirim;SP
+Couto Magalhães;TO
+Tacima;PB
+São Vicente do Seridó;PB
+Joca Claudino;PB
+Embu das Artes;SP
+Presidente Castello Branco;SC
+Belém do São Francisco;PE
+Luciara;MT
+Iguaracy;PE
+Mogi das Cruzes;SP
+Barro Preto;MG
+Serra Caiada;RN
+Paraty;RJ
+Sant'Ana do Livramento;RS
+Maçambará;RS
+Santa Izabel do Pará;PA
+Acarape;CE
+Eldorado do Carajás;PA
+Lagoa de Itaenga;PE
+São Valério;TO
+Trajano de Moraes;RJ
