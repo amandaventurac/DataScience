@@ -1,4 +1,4 @@
-setwd("/media/medea/Seagate Backup Plus Drive/outros_profissionais/portfolio_dsa/exames_papanicolau")
+#setwd("diretorio_onde_estao_os_arquivos")
 media_estados <- read.table('media_exames_por_estado_com_densidade_demografica.txt', header = FALSE, sep = ",", dec = ".")
 media_estados
 library(ggplot2)
