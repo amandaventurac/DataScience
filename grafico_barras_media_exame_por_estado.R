@@ -1,4 +1,4 @@
-setwd("/media/medea/Seagate Backup Plus Drive/outros_profissionais/portfolio_dsa/exames_papanicolau")
+#setwd("diretorio_onde_estao_os_arquivos")
 getwd()
 media_estados <- read.table('media_exames_por_estado.txt', header = FALSE, sep = ",", dec = ".")
 media_estados
