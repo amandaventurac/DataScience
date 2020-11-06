@@ -6,17 +6,17 @@ The chosen dataset presents the Papanicolau test examinations for each Brazilian
 
 The following graph presents the Papanicolau test examinations averages in each Brazilian State, and the dashed line is the country average.  Notably, some states present a large deviation from the country average, even considering states in the same region (MG and RJ). For those who are not familiar with the Brazilian regions, a brief explanation: Brazil is divided into five big regions,  groups of states possessing some geographical similarities. 
 
-![](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System/blob/master/examinations_papanicolautest_mean_in_brazilian_states.png?raw=true)
+![Graph1](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System/blob/master/examinations_papanicolautest_mean_in_brazilian_states.png?raw=true)
 
 The large variation in the same region is interesting and could be associated with relevant indicators, for example, the population density, the median wage, the amount of public health system centers per area, etc... Even though RJ and MG are placed in the same region, they present greatly different population densities. The RJ state is 10 times more populous than MG, and from the first graph in notable that RJ has low effectiveness on Papanicolau test distribution in comparison to MG. Therefore, one hypothesis arises in this context: is the relation between the population density and the Papanicolau test distribution effectiveness an inverse relationship? 
 
 The dispersion plot was constructed in orded to test this hypothesis. The four circled points were considered outliers.
 
-graph2
+![Graph2](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System/blob/master/dispersion_plot1.png?raw=true)
 
 Following the investigation, a regression model was constructed. The shadow zone presents the 95% confidence interval. As only 7 states are placed in this zone, the hypothesis is not validated. Thus, other indicators should be considered to adequately explain the strong disparities visualized on the first graph. 
 
-graph3 
+![Graph3](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System/blob/master/dispersion_plot2.png?raw=true)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
