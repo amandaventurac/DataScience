@@ -6,7 +6,7 @@ The chosen dataset presents the Papanicolau test examinations for each Brazilian
 
 The following graph presents the Papanicolau test examinations averages in each Brazilian State, and the dashed line is the country average.  Notably, some states present a large deviation from the country average, even considering states in the same region (MG and RJ). For those who are not familiar with the Brazilian regions, a brief explanation: Brazil is divided into five big regions,  groups of states possessing some geographical similarities. 
 
-graph1
+![alt text](https://github.com/amandaventurac/DataScience_Python_R_Brazilian_Health_System?raw=true)
 
 The large variation in the same region is interesting and could be associated with relevant indicators, for example, the population density, the median wage, the amount of public health system centers per area, etc... Even though RJ and MG are placed in the same region, they present greatly different population densities. The RJ state is 10 times more populous than MG, and from the first graph in notable that RJ has low effectiveness on Papanicolau test distribution in comparison to MG. Therefore, one hypothesis arises in this context: is the relation between the population density and the Papanicolau test distribution effectiveness an inverse relationship? 
 
