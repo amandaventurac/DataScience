@@ -1,4 +1,4 @@
-# DataScience
+# DataScience_Python_R_Brazilian_Health_System
 This Repository presents my data science project on the Brazilian Health Public System.  
 I created it for data science popularization purpose, as part of my LinkedIn article, available on:  https://www.linkedin.com/pulse/analisando-dados-de-exames-preventivos-do-sus-com-r-e-amanda/
 
