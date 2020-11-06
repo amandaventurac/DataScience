@@ -1,5 +1,5 @@
 # DataScience_Python_R_Brazilian_Health_System
-This Repository presents my data science project about the Brazilian Health Public System.  
+This Repository presents my data science project concerning the Brazilian Health Public System.  
 I created it for data science popularization purpose, as part of my LinkedIn article, available on:  https://www.linkedin.com/pulse/analisando-dados-de-exames-preventivos-do-sus-com-r-e-amanda/
 
 The chosen dataset presents the Papanicolau test examinations for each Brazilian city. This test is the main screening strategy for cervical cancer, the 3rd most common type of cancer in women. The Brazilian Health Public System is widely spread and used all over the country. Therefore, this publicly available dataset can be used to investigate the relations between the regional aspects and the Papanicolau test distribution effectiveness.
